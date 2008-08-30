@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>input $1, :timeout =&gt; ${2:20.seconds}, :accept_key =&gt; "${3:#}"</string>
+	<key>name</key>
+	<string>input</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>81486A6B-7372-43C1-9852-0D2B1B16B114</string>
+</dict>
+</plist>
