@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>interruptable_play ${1:%w}'$2'</string>
+	<key>name</key>
+	<string>interruptable play</string>
+	<key>tabTrigger</key>
+	<string>ip</string>
+	<key>uuid</key>
+	<string>5ED07D9E-6651-422C-ADA0-EBDBB2E02E47</string>
+</dict>
+</plist>

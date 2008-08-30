@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>AC054012-75C6-4A3A-8A14-8E5F8FDBBD67</string>
+			<string>6B4B54DC-2EA8-469C-9149-40333C4CB9D1</string>
+			<string>5ED07D9E-6651-422C-ADA0-EBDBB2E02E47</string>
+			<string>928831A5-B3E6-4FE1-8E59-E465684A90DC</string>
+			<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>AC054012-75C6-4A3A-8A14-8E5F8FDBBD67</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>4D92F068-C8B7-4E29-9B19-167B06EFD83A</string>
+					<string>A657753C-7C24-4BA6-8BDD-888BD77D9D9C</string>
+					<string>81122DF8-1EE2-44F0-90A0-FC5628D2A40B</string>
+					<string>FB10CFF1-6140-4265-BBD8-2A3C6DD34E8A</string>
+				</array>
+				<key>name</key>
+				<string>Dialing</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Adhearsion</string>
+	<key>ordering</key>
+	<array>
+		<string>2071DC52-5598-4F1A-8223-9EDF15FCA7E6</string>
+		<string>6B4B54DC-2EA8-469C-9149-40333C4CB9D1</string>
+		<string>5ED07D9E-6651-422C-ADA0-EBDBB2E02E47</string>
+		<string>FB10CFF1-6140-4265-BBD8-2A3C6DD34E8A</string>
+		<string>81122DF8-1EE2-44F0-90A0-FC5628D2A40B</string>
+		<string>928831A5-B3E6-4FE1-8E59-E465684A90DC</string>
+		<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
+	</array>
+	<key>uuid</key>
+	<string>A41EBCCB-69D0-437C-B9D1-A127C24D187A</string>
+</dict>
+</plist>

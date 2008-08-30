@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>last_dial_status</string>
+	<key>name</key>
+	<string>last dial status</string>
+	<key>tabTrigger</key>
+	<string>lds</string>
+	<key>uuid</key>
+	<string>FB10CFF1-6140-4265-BBD8-2A3C6DD34E8A</string>
+</dict>
+</plist>
