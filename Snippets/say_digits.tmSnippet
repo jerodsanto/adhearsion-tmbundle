@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>say_digits ${2:"${1:123}"}
+</string>
+	<key>name</key>
+	<string>say_digits</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
+	<key>tabTrigger</key>
+	<string>say</string>
+	<key>uuid</key>
+	<string>1CD987A2-8E2C-4351-87E8-9441C14E2F1F</string>
+</dict>
+</plist>

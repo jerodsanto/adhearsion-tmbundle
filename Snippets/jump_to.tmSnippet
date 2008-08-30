@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>jump_to ${1:context}${2:, ${3:overrides={\}}}
+</string>
+	<key>name</key>
+	<string>jump_to</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
+	<key>tabTrigger</key>
+	<string>jump</string>
+	<key>uuid</key>
+	<string>AD7751CF-ED11-45C9-9DF6-490062E88419</string>
+</dict>
+</plist>

@@ -7,10 +7,11 @@
 		<key>items</key>
 		<array>
 			<string>AC054012-75C6-4A3A-8A14-8E5F8FDBBD67</string>
+			<string>EF173A9A-24A5-4A8B-99DB-79306F62BD48</string>
 			<string>6B4B54DC-2EA8-469C-9149-40333C4CB9D1</string>
-			<string>5ED07D9E-6651-422C-ADA0-EBDBB2E02E47</string>
 			<string>928831A5-B3E6-4FE1-8E59-E465684A90DC</string>
-			<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
+			<string>81486A6B-7372-43C1-9852-0D2B1B16B114</string>
+			<string>AD7751CF-ED11-45C9-9DF6-490062E88419</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -26,6 +27,17 @@
 				<key>name</key>
 				<string>Dialing</string>
 			</dict>
+			<key>EF173A9A-24A5-4A8B-99DB-79306F62BD48</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5ED07D9E-6651-422C-ADA0-EBDBB2E02E47</string>
+					<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
+					<string>1CD987A2-8E2C-4351-87E8-9441C14E2F1F</string>
+				</array>
+				<key>name</key>
+				<string>Sounds</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -39,6 +51,10 @@
 		<string>81122DF8-1EE2-44F0-90A0-FC5628D2A40B</string>
 		<string>928831A5-B3E6-4FE1-8E59-E465684A90DC</string>
 		<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
+		<string>4D92F068-C8B7-4E29-9B19-167B06EFD83A</string>
+		<string>81486A6B-7372-43C1-9852-0D2B1B16B114</string>
+		<string>AD7751CF-ED11-45C9-9DF6-490062E88419</string>
+		<string>A657753C-7C24-4BA6-8BDD-888BD77D9D9C</string>
 	</array>
 	<key>uuid</key>
 	<string>A41EBCCB-69D0-437C-B9D1-A127C24D187A</string>
