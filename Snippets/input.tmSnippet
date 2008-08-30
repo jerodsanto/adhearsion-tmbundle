@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>input $1, :timeout =&gt; ${2:20.seconds}, :accept_key =&gt; "${3:#}"</string>
+	<string>input ${1:1}${2:, ${3::timeout =&gt; ${4:20.seconds},} ${5::accept_key =&gt; "${6:#}"}}</string>
 	<key>name</key>
 	<string>input</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
 	<string>input</string>
 	<key>uuid</key>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>menu '${1:welcome}', :timeout =&gt; ${2:8.seconds}, :tries =&gt; ${3:3} do |${4:link}|
-  $5
+	<string>menu '${1:welcome}'${2:, ${3::timeout =&gt; ${4:8.seconds},} ${5::tries =&gt; ${6:3}}} do |${7:link}|
+  $8
 end
 </string>
 	<key>name</key>
 	<string>menu</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
 	<string>menu</string>
 	<key>uuid</key>

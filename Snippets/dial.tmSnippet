@@ -6,8 +6,10 @@
 	<string>dial '${1:number}'</string>
 	<key>name</key>
 	<string>dial</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
-	<string>d</string>
+	<string>dial</string>
 	<key>uuid</key>
 	<string>4D92F068-C8B7-4E29-9B19-167B06EFD83A</string>
 </dict>

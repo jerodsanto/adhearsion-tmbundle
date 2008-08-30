@@ -5,7 +5,9 @@
 	<key>content</key>
 	<string>last_dial_successful?</string>
 	<key>name</key>
-	<string>last dial successful?</string>
+	<string>last_dial_successful?</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
 	<string>ldsu</string>
 	<key>uuid</key>

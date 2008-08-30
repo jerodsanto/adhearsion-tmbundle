@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>play ${1:%w}'$2'</string>
+	<string>play ${1:${2:%w}'$3'}</string>
 	<key>name</key>
 	<string>play</string>
+	<key>scope</key>
+	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
-	<string>p</string>
+	<string>play</string>
 	<key>uuid</key>
 	<string>FEE1CA36-DFD6-4FF1-9182-49B3510100E1</string>
 </dict>
