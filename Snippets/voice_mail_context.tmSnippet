@@ -3,19 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:new_context} {
-	$2
-}
-</string>
-	<key>keyEquivalent</key>
-	<string>^c</string>
+	<string>context :${1:employees} do |context|
+  $2
+end</string>
 	<key>name</key>
-	<string>context</string>
+	<string>voice_mail_context</string>
 	<key>scope</key>
 	<string>source.ruby.adhearsion</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>vmc</string>
 	<key>uuid</key>
-	<string>6B4B54DC-2EA8-469C-9149-40333C4CB9D1</string>
+	<string>E7E36451-E88D-4BE2-8DB7-0AE3497BE258</string>
 </dict>
 </plist>

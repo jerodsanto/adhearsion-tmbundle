@@ -6,6 +6,7 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>A1A473A5-7C12-49BE-97DF-E0780E64EEF0</string>
 			<string>AC054012-75C6-4A3A-8A14-8E5F8FDBBD67</string>
 			<string>EF173A9A-24A5-4A8B-99DB-79306F62BD48</string>
 			<string>6B4B54DC-2EA8-469C-9149-40333C4CB9D1</string>
@@ -15,6 +16,15 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>A1A473A5-7C12-49BE-97DF-E0780E64EEF0</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E7E36451-E88D-4BE2-8DB7-0AE3497BE258</string>
+				</array>
+				<key>name</key>
+				<string>Voicemail</string>
+			</dict>
 			<key>AC054012-75C6-4A3A-8A14-8E5F8FDBBD67</key>
 			<dict>
 				<key>items</key>

@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>dialplan.rb</string>
+		<string>voicemail.rb</string>
+		<string>agents.rb</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~@r</string>
@@ -14,7 +16,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(menu)\b</string>
+			<string>\b(menu|context)\b</string>
 			<key>name</key>
 			<string>keyword</string>
 		</dict>
