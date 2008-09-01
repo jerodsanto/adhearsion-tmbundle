@@ -4,7 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>menu '${1:welcome}'${2:, ${3::timeout =&gt; ${4:8.seconds},} ${5::tries =&gt; ${6:3}}} do |${7:link}|
-  $8
+  $7.$8
+  $7.$9
+
+  $7.on_invalid $10
+  $7.on_premature_timeout $11
+  $7.on_failure $12
 end
 </string>
 	<key>name</key>
